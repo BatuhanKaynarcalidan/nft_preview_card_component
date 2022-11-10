@@ -1,0 +1,84 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.main{
+    margin: 5% 30%;
+    background-color: hsl(216, 50%, 16%);
+    width: 30%;
+    padding-bottom: 5%;
+    border-radius: 3%;
+    
+}
+.img1{
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 3%;
+}
+.h1{
+    color: hsl(0, 0%, 100%);
+    margin-left: 5%;
+}
+.p1{
+    margin-left: 5%;
+    color:hsl(215, 51%, 70%);
+    font-size: 25px;
+}
+hr{
+    width: 90%;
+}
+.div1{
+    text-align: left;
+    margin-left: 5%;
+}
+.div2{
+    text-align: right;
+    margin-top: -10%;
+    padding-bottom: 2%;
+}
+.img2{
+    float:left;
+}
+.p2{
+    color:hsl(178, 100%, 50%);
+    margin-left: 5%;
+}
+.img3{
+    float:left;
+    margin-left: 66%;
+}
+.p3{
+    margin-top: 7%;
+    margin-right: 5%;
+    color:hsl(215, 51%, 70%);
+}
+.div3{
+    margin-top: 5%;
+}
+.img4{
+    margin-left: 5%;
+    float:left;
+    width: 10%;
+}
+.p4{
+    float:left;
+    margin-left: 5%;
+    color: hsl(215, 51%, 70%);
+}
+.p5{
+    float:right;
+    margin-right: 40%;
+    color: white;
+}
+.p5:hover{
+    color:hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+.h1:hover{
+    color:hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+.img1:hover .div4{
+    opacity: 1;
+    cursor: pointer;
+}
